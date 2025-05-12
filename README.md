@@ -4,8 +4,8 @@
 
 #### Please download the Kaggle dataset (linked below). Then, create a google drive called "AI-ML-StarterKit" and store the .csv file of the downloaded dataset onto the drive folder.
 
-### Schedule: 
+#### Schedule: 
 https://docs.google.com/document/d/1ztg4dOLP-wbb4f6nNAY9ercaUJEyKRuO3XJZkuFmfW0/edit?tab=t.0#heading=h.udnwf18eh5f
 
-### Dataset: 
+#### Dataset: 
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
