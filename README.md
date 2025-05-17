@@ -18,7 +18,7 @@ Below are instructions on how to get started.
 
 ![Image](setup_imgs/setup_3.png)
 
-5. Click on “GitHub” on the left panel. Search for the AI/ML Starter Kit repo using this link: https://github.com/nick01as/AI-ML-starter-kit 
+5. Click on “GitHub” on the left panel. Search for the AI/ML Starter Kit repo using this link: https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit 
 
 ![Image](setup_imgs/setup_4.png)
 
